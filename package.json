@@ -1,12 +1,3 @@
-{
-  "name": "line-spammer",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "app.js"
-  },
-  "dependencies": {
-    "@line/bot-sdk": "^7.5.0",
-    "express": "^4.18.2"
-  }
+"scripts": {
+  "start": "node app.js"
 }
